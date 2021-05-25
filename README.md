@@ -9,13 +9,10 @@ python - 量化策略机器人
 adnroid&ios 双端支持
   
 ### 说明
-软件经过长期测试，并且有几家正在运营中  
-可直接进行运营或者二次开发 
-本项目只包含钱包源码  
-完整项目联系qq:979095879  
+完整项目联系qq:639770894  
 价格便宜,只要4k,白嫖党勿扰  
 
-![微信截图_20210510153521](https://user-images.githubusercontent.com/83943063/117622616-665ca580-b1a5-11eb-8547-06703341257f.png)
+![微信截图_20210525135634](https://user-images.githubusercontent.com/84691941/119446455-0cd9a680-bd61-11eb-8955-7c4b1ff0c282.png)
 
 
 ![微信截图_20210510151934](https://user-images.githubusercontent.com/83943063/117621679-6a3bf800-b1a4-11eb-8874-db55de7b604d.png)
