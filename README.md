@@ -24,6 +24,9 @@ adnroid&ios 双端支持
 ![微信截图_20210510152636](https://user-images.githubusercontent.com/83943063/117621706-7031d900-b1a4-11eb-8730-fc7286775391.png)
 
 
+![微信截图_20210525135711](https://user-images.githubusercontent.com/84691941/119446613-4a3e3400-bd61-11eb-92a0-7d626d0834a3.png)
+
+
 ![aa](https://user-images.githubusercontent.com/83943063/117619830-5394a180-b1a2-11eb-89d2-e3e039d798de.png)
 
 
